@@ -1,7 +1,7 @@
 # saypad
 Robotically reads text from shared pad forever.
 
-*mac only*
+**mac only**
 
 1. [download program](https://github.com/nouveau-departement/saypad/archive/master.zip)
 2. lauch `saypad.command`
